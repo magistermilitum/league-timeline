@@ -1,0 +1,1625 @@
+[
+  {
+    "year": 1919,
+    "canonicalStructuralBoxes": 12,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 10,
+    "nonLeadershipBoxesCoveredByClusters": 10,
+    "clusterRoots": [
+      {
+        "id": "1919-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1919-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1919-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1919-mandatory-section-1",
+        "label": "Mandatory Section"
+      },
+      {
+        "id": "1919-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1919-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1919-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1919-social-questions-section-health-1",
+        "label": "Social Questions Section (Health)"
+      },
+      {
+        "id": "1919-administrative-commissions-minorities-questions--1",
+        "label": "Administrative Commissions & Minorities Questions Section"
+      },
+      {
+        "id": "1919-london-office-1",
+        "label": "London Office"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1920,
+    "canonicalStructuralBoxes": 16,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 14,
+    "nonLeadershipBoxesCoveredByClusters": 14,
+    "clusterRoots": [
+      {
+        "id": "1920-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1920-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1920-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1920-administrative-commissions-minorities-questions--1",
+        "label": "Administrative Commissions & Minorities Questions Section"
+      },
+      {
+        "id": "1920-mandatory-section-1",
+        "label": "Mandatory Section"
+      },
+      {
+        "id": "1920-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1920-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1920-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1920-social-questions-section-health-1",
+        "label": "Social Questions Section (Health)"
+      },
+      {
+        "id": "1920-opium-traffic-questions-section-1",
+        "label": "Opium Traffic Questions Section"
+      },
+      {
+        "id": "1920-financial-administration-1",
+        "label": "Financial Administration"
+      },
+      {
+        "id": "1920-armaments-commission-1",
+        "label": "Armaments Commission"
+      },
+      {
+        "id": "1920-paris-office-1",
+        "label": "Paris Office"
+      },
+      {
+        "id": "1920-london-office-1",
+        "label": "London Office"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1920-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1921,
+    "canonicalStructuralBoxes": 17,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 15,
+    "nonLeadershipBoxesCoveredByClusters": 15,
+    "clusterRoots": [
+      {
+        "id": "1921-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1921-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1921-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1921-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1921-mandatory-section-1",
+        "label": "Mandatory Section"
+      },
+      {
+        "id": "1921-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1921-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1921-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1921-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1921-social-questions-section-health-1",
+        "label": "Social Questions Section (Health)"
+      },
+      {
+        "id": "1921-opium-traffic-questions-section-1",
+        "label": "Opium Traffic Questions Section"
+      },
+      {
+        "id": "1921-financial-administration-1",
+        "label": "Financial Administration"
+      },
+      {
+        "id": "1921-secretariat-of-the-military-naval-air-sub-commis-1",
+        "label": "Secretariat of the Military, Naval & Air Sub-Commissions"
+      },
+      {
+        "id": "1921-london-office-1",
+        "label": "London Office"
+      },
+      {
+        "id": "1921-paris-office-1",
+        "label": "Paris Office"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1921-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1922,
+    "canonicalStructuralBoxes": 23,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 21,
+    "nonLeadershipBoxesCoveredByClusters": 21,
+    "clusterRoots": [
+      {
+        "id": "1922-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1922-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1922-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1922-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1922-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1922-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1922-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1922-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1922-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1922-social-questions-opium-traffic-questions-section-1",
+        "label": "Social Questions & Opium Traffic Questions Section"
+      },
+      {
+        "id": "1922-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1922-financial-administration-1",
+        "label": "Financial Administration"
+      },
+      {
+        "id": "1922-secretariat-of-the-military-naval-air-sub-commis-1",
+        "label": "Secretariat of the Military, Naval & Air Sub-Commissions"
+      },
+      {
+        "id": "1922-london-office-1",
+        "label": "London Office"
+      },
+      {
+        "id": "1922-press-section-1",
+        "label": "Press Section"
+      },
+      {
+        "id": "1922-paris-office-1",
+        "label": "Paris Office"
+      },
+      {
+        "id": "1922-rome-office-1",
+        "label": "Rome Office"
+      },
+      {
+        "id": "1922-vienna-office-1",
+        "label": "Vienna Office"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1922-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1923,
+    "canonicalStructuralBoxes": 17,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 15,
+    "nonLeadershipBoxesCoveredByClusters": 15,
+    "clusterRoots": [
+      {
+        "id": "1923-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1923-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1923-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1923-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1923-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1923-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1923-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1923-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1923-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1923-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1923-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1923-financial-administration-1",
+        "label": "Financial Administration"
+      },
+      {
+        "id": "1923-london-office-1",
+        "label": "London Office"
+      },
+      {
+        "id": "1923-paris-office-1",
+        "label": "Paris Office"
+      },
+      {
+        "id": "1923-rome-office-1",
+        "label": "Rome Office"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1923-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1924,
+    "canonicalStructuralBoxes": 18,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 16,
+    "nonLeadershipBoxesCoveredByClusters": 16,
+    "clusterRoots": [
+      {
+        "id": "1924-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1924-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1924-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1924-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1924-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1924-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1924-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1924-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1924-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1924-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1924-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1924-financial-administration-1",
+        "label": "Financial Administration"
+      },
+      {
+        "id": "1924-london-office-1",
+        "label": "London Office"
+      },
+      {
+        "id": "1924-paris-office-1",
+        "label": "Paris Office"
+      },
+      {
+        "id": "1924-rome-office-1",
+        "label": "Rome Office"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1924-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1925,
+    "canonicalStructuralBoxes": 28,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 26,
+    "nonLeadershipBoxesCoveredByClusters": 26,
+    "clusterRoots": [
+      {
+        "id": "1925-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1925-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1925-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1925-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1925-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1925-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1925-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1925-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1925-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1925-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1925-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1925-financial-director-s-office-1",
+        "label": "Financial Director’s Office"
+      },
+      {
+        "id": "1925-south-american-bureau-1",
+        "label": "South American Bureau"
+      },
+      {
+        "id": "1925-liaison-offices-1",
+        "label": "Liaison Offices"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1925-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1926,
+    "canonicalStructuralBoxes": 24,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 22,
+    "nonLeadershipBoxesCoveredByClusters": 22,
+    "clusterRoots": [
+      {
+        "id": "1926-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1926-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1926-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1926-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1926-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1926-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1926-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1926-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1926-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1926-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1926-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1926-financial-director-s-office-1",
+        "label": "Financial Director’s Office"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1926-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1927,
+    "canonicalStructuralBoxes": 24,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 22,
+    "nonLeadershipBoxesCoveredByClusters": 22,
+    "clusterRoots": [
+      {
+        "id": "1927-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1927-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1927-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1927-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1927-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1927-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1927-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1927-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1927-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1927-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1927-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1927-treasury-1",
+        "label": "Treasury"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1927-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1928,
+    "canonicalStructuralBoxes": 25,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 23,
+    "nonLeadershipBoxesCoveredByClusters": 23,
+    "clusterRoots": [
+      {
+        "id": "1928-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1928-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1928-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1928-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1928-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1928-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1928-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1928-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1928-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1928-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1928-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1928-treasury-1",
+        "label": "Treasury"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1928-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1929,
+    "canonicalStructuralBoxes": 26,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 24,
+    "nonLeadershipBoxesCoveredByClusters": 24,
+    "clusterRoots": [
+      {
+        "id": "1929-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1929-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1929-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1929-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1929-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1929-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1929-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1929-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1929-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1929-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1929-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1929-treasury-1",
+        "label": "Treasury"
+      },
+      {
+        "id": "1929-central-opium-board-1",
+        "label": "Central Opium Board"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1929-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1930,
+    "canonicalStructuralBoxes": 30,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 28,
+    "nonLeadershipBoxesCoveredByClusters": 28,
+    "clusterRoots": [
+      {
+        "id": "1930-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1930-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1930-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1930-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1930-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1930-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1930-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1930-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1930-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1930-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1930-treasury-1",
+        "label": "Treasury"
+      },
+      {
+        "id": "1930-central-opium-board-1",
+        "label": "Central Opium Board"
+      },
+      {
+        "id": "1930-refugees-service-1",
+        "label": "Refugees Service"
+      },
+      {
+        "id": "1930-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1930-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1931,
+    "canonicalStructuralBoxes": 33,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 31,
+    "nonLeadershipBoxesCoveredByClusters": 31,
+    "clusterRoots": [
+      {
+        "id": "1931-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1931-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1931-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1931-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1931-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1931-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1931-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1931-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1931-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1931-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1931-treasury-1",
+        "label": "Treasury"
+      },
+      {
+        "id": "1931-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section"
+      },
+      {
+        "id": "1931-central-opium-board-1",
+        "label": "Central Opium Board"
+      },
+      {
+        "id": "1931-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1931-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1932,
+    "canonicalStructuralBoxes": 31,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 29,
+    "nonLeadershipBoxesCoveredByClusters": 29,
+    "clusterRoots": [
+      {
+        "id": "1932-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1932-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1932-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1932-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1932-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1932-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1932-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1932-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1932-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1932-economic-relations-section-1",
+        "label": "Economic Relations Section"
+      },
+      {
+        "id": "1932-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service"
+      },
+      {
+        "id": "1932-treasury-1",
+        "label": "Treasury"
+      },
+      {
+        "id": "1932-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section"
+      },
+      {
+        "id": "1932-central-opium-board-1",
+        "label": "Central Opium Board"
+      },
+      {
+        "id": "1932-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1932-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [],
+    "status": "PASS"
+  },
+  {
+    "year": 1933,
+    "canonicalStructuralBoxes": 32,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 30,
+    "nonLeadershipBoxesCoveredByClusters": 30,
+    "clusterRoots": [
+      {
+        "id": "1933-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section"
+      },
+      {
+        "id": "1933-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1933-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1933-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1933-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1933-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1933-chief-of-section-see-note-1",
+        "label": "Chief of Section (see note)"
+      },
+      {
+        "id": "1933-economic-relations-section-1",
+        "label": "Economic Relations Section"
+      },
+      {
+        "id": "1933-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service"
+      },
+      {
+        "id": "1933-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section"
+      },
+      {
+        "id": "1933-central-opium-board-1",
+        "label": "Central Opium Board"
+      },
+      {
+        "id": "1933-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1933-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1933-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1933-intellectual-cooperation-international-bureaux-s-1"
+      }
+    ],
+    "status": "PASS"
+  },
+  {
+    "year": 1934,
+    "canonicalStructuralBoxes": 29,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 27,
+    "nonLeadershipBoxesCoveredByClusters": 27,
+    "clusterRoots": [
+      {
+        "id": "1934-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1934-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1934-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1934-minorities-questions-section-1",
+        "label": "Minorities Questions Section"
+      },
+      {
+        "id": "1934-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1934-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1934-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1934-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1934-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1934-central-section-1",
+        "label": "Central Section"
+      },
+      {
+        "id": "1934-accounting-branch-1",
+        "label": "Accounting Branch"
+      },
+      {
+        "id": "1934-internal-control-office-1",
+        "label": "Internal Control Office"
+      },
+      {
+        "id": "1934-library-1",
+        "label": "Library"
+      },
+      {
+        "id": "1934-economic-relations-section-1",
+        "label": "Economic Relations Section"
+      },
+      {
+        "id": "1934-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service"
+      },
+      {
+        "id": "1934-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section"
+      },
+      {
+        "id": "1934-central-opium-board-1",
+        "label": "Central Opium Board"
+      },
+      {
+        "id": "1934-liaison-with-latin-america-1",
+        "label": "Liaison with Latin America"
+      },
+      {
+        "id": "1934-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1934-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1934-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1934-intellectual-cooperation-international-bureaux-s-1"
+      }
+    ],
+    "status": "PASS"
+  },
+  {
+    "year": 1935,
+    "canonicalStructuralBoxes": 38,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 36,
+    "nonLeadershipBoxesCoveredByClusters": 36,
+    "clusterRoots": [
+      {
+        "id": "1935-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1935-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1935-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1935-minorities-section-1",
+        "label": "Minorities Section"
+      },
+      {
+        "id": "1935-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1935-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1935-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1935-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1935-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1935-central-section-1",
+        "label": "Central Section"
+      },
+      {
+        "id": "1935-economic-relations-section-1",
+        "label": "Economic Relations Section"
+      },
+      {
+        "id": "1935-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service"
+      },
+      {
+        "id": "1935-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section"
+      },
+      {
+        "id": "1935-liaison-with-latin-america-1",
+        "label": "Liaison with Latin America"
+      },
+      {
+        "id": "1935-branch-offices-1",
+        "label": "Branch Offices"
+      },
+      {
+        "id": "1935-secretariat-of-the-central-opium-board-1",
+        "label": "Secretariat of the Central Opium Board"
+      },
+      {
+        "id": "1935-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      },
+      {
+        "id": "1935-liaison-with-china-1",
+        "label": "Liaison with China"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1935-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1935-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1935-intellectual-cooperation-international-bureaux-s-1"
+      }
+    ],
+    "status": "PASS"
+  },
+  {
+    "year": 1936,
+    "canonicalStructuralBoxes": 37,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 35,
+    "nonLeadershipBoxesCoveredByClusters": 35,
+    "clusterRoots": [
+      {
+        "id": "1936-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1936-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1936-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1936-minorities-section-1",
+        "label": "Minorities Section"
+      },
+      {
+        "id": "1936-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1936-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1936-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1936-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1936-social-questions-section-1",
+        "label": "Social Questions Section"
+      },
+      {
+        "id": "1936-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1936-central-section-1",
+        "label": "Central Section"
+      },
+      {
+        "id": "1936-economic-relations-section-1",
+        "label": "Economic Relations Section"
+      },
+      {
+        "id": "1936-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service"
+      },
+      {
+        "id": "1936-liaison-with-latin-america-1",
+        "label": "Liaison with Latin America"
+      },
+      {
+        "id": "1936-branch-offices-1",
+        "label": "Branch Offices"
+      },
+      {
+        "id": "1936-secretariat-of-the-central-opium-board-1",
+        "label": "Secretariat of the Central Opium Board"
+      },
+      {
+        "id": "1936-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      },
+      {
+        "id": "1936-liaison-with-china-1",
+        "label": "Liaison with China"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1936-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1936-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1936-intellectual-cooperation-international-bureaux-s-1"
+      }
+    ],
+    "status": "PASS"
+  },
+  {
+    "year": 1937,
+    "canonicalStructuralBoxes": 37,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 35,
+    "nonLeadershipBoxesCoveredByClusters": 35,
+    "clusterRoots": [
+      {
+        "id": "1937-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1937-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1937-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1937-minorities-section-1",
+        "label": "Minorities Section"
+      },
+      {
+        "id": "1937-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1937-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1937-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1937-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1937-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1937-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1937-central-section-1",
+        "label": "Central Section"
+      },
+      {
+        "id": "1937-economic-relations-section-1",
+        "label": "Economic Relations Section"
+      },
+      {
+        "id": "1937-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service"
+      },
+      {
+        "id": "1937-liaison-with-member-states-1",
+        "label": "Liaison with Member States"
+      },
+      {
+        "id": "1937-branch-offices-1",
+        "label": "Branch Offices"
+      },
+      {
+        "id": "1937-liaison-with-china-1",
+        "label": "Liaison with China"
+      },
+      {
+        "id": "1937-secretariat-of-the-central-opium-board-1",
+        "label": "Secretariat of the Central Opium Board"
+      },
+      {
+        "id": "1937-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1937-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1937-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1937-intellectual-cooperation-international-bureaux-s-1"
+      }
+    ],
+    "status": "PASS"
+  },
+  {
+    "year": 1938,
+    "canonicalStructuralBoxes": 35,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 33,
+    "nonLeadershipBoxesCoveredByClusters": 33,
+    "clusterRoots": [
+      {
+        "id": "1938-political-section-1",
+        "label": "Political Section"
+      },
+      {
+        "id": "1938-legal-section-1",
+        "label": "Legal Section"
+      },
+      {
+        "id": "1938-information-section-1",
+        "label": "Information Section"
+      },
+      {
+        "id": "1938-minorities-section-1",
+        "label": "Minorities Section"
+      },
+      {
+        "id": "1938-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1938-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1938-communications-and-transit-section-1",
+        "label": "Communications and Transit Section"
+      },
+      {
+        "id": "1938-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1938-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1938-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1938-central-section-1",
+        "label": "Central Section"
+      },
+      {
+        "id": "1938-economic-relations-section-1",
+        "label": "Economic Relations Section"
+      },
+      {
+        "id": "1938-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service"
+      },
+      {
+        "id": "1938-liaison-with-member-states-1",
+        "label": "Liaison with Member States"
+      },
+      {
+        "id": "1938-branch-offices-1",
+        "label": "Branch Offices"
+      },
+      {
+        "id": "1938-secretariat-of-the-central-opium-board-1",
+        "label": "Secretariat of the Central Opium Board"
+      },
+      {
+        "id": "1938-secretariat-of-the-administrative-board-of-the-s-1",
+        "label": "Secretariat of the Administrative Board of the Staff Pension Fund"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1938-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1938-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1938-intellectual-cooperation-international-bureaux-s-1"
+      }
+    ],
+    "status": "PASS"
+  },
+  {
+    "year": 1939,
+    "canonicalStructuralBoxes": 17,
+    "leadershipBoxes": 2,
+    "nonLeadershipBoxesExpectedInClusters": 15,
+    "nonLeadershipBoxesCoveredByClusters": 15,
+    "clusterRoots": [
+      {
+        "id": "1939-mandates-section-1",
+        "label": "Mandates Section"
+      },
+      {
+        "id": "1939-disarmament-section-1",
+        "label": "Disarmament Section"
+      },
+      {
+        "id": "1939-economic-and-financial-section-1",
+        "label": "Economic and Financial Section"
+      },
+      {
+        "id": "1939-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section"
+      },
+      {
+        "id": "1939-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section"
+      },
+      {
+        "id": "1939-health-section-1",
+        "label": "Health Section"
+      },
+      {
+        "id": "1939-chief-of-section-see-note-1",
+        "label": "Chief of Section (see note)"
+      }
+    ],
+    "missingFromClusterCoverage": [],
+    "suppressed": [
+      {
+        "id": "1939-secretary-general-1",
+        "label": "Secretary-General"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1939-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1939-intellectual-cooperation-international-bureaux-s-1"
+      }
+    ],
+    "status": "PASS"
+  }
+]

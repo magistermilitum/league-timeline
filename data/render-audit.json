@@ -1,0 +1,441 @@
+[
+  {
+    "year": 1919,
+    "rawStructuralBoxes": 12,
+    "canonicalBoxes": 12,
+    "suppressed": [],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1920,
+    "rawStructuralBoxes": 17,
+    "canonicalBoxes": 16,
+    "suppressed": [
+      {
+        "id": "1920-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1921,
+    "rawStructuralBoxes": 18,
+    "canonicalBoxes": 17,
+    "suppressed": [
+      {
+        "id": "1921-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1922,
+    "rawStructuralBoxes": 24,
+    "canonicalBoxes": 23,
+    "suppressed": [
+      {
+        "id": "1922-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [
+      {
+        "label": "Press Section",
+        "kind": "unit",
+        "ids": [
+          "1922-press-section-1",
+          "1922-press-section-2",
+          "1922-press-section-3",
+          "1922-press-section-4"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      }
+    ],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1923,
+    "rawStructuralBoxes": 18,
+    "canonicalBoxes": 17,
+    "suppressed": [
+      {
+        "id": "1923-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1924,
+    "rawStructuralBoxes": 19,
+    "canonicalBoxes": 18,
+    "suppressed": [
+      {
+        "id": "1924-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1925,
+    "rawStructuralBoxes": 29,
+    "canonicalBoxes": 28,
+    "suppressed": [
+      {
+        "id": "1925-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [
+      {
+        "label": "Attached to London Office",
+        "kind": "office",
+        "ids": [
+          "1925-attached-to-london-office-1",
+          "1925-attached-to-london-office-2"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      },
+      {
+        "label": "Paris Office",
+        "kind": "office",
+        "ids": [
+          "1925-paris-office-1",
+          "1925-paris-office-2"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      }
+    ],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1926,
+    "rawStructuralBoxes": 25,
+    "canonicalBoxes": 24,
+    "suppressed": [
+      {
+        "id": "1926-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [
+      {
+        "label": "Attached to London Office",
+        "kind": "office",
+        "ids": [
+          "1926-attached-to-london-office-1",
+          "1926-attached-to-london-office-2"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      }
+    ],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1927,
+    "rawStructuralBoxes": 25,
+    "canonicalBoxes": 24,
+    "suppressed": [
+      {
+        "id": "1927-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [
+      {
+        "label": "Attached to London Office",
+        "kind": "office",
+        "ids": [
+          "1927-attached-to-london-office-1",
+          "1927-attached-to-london-office-2"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      }
+    ],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1928,
+    "rawStructuralBoxes": 26,
+    "canonicalBoxes": 25,
+    "suppressed": [
+      {
+        "id": "1928-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1929,
+    "rawStructuralBoxes": 27,
+    "canonicalBoxes": 26,
+    "suppressed": [
+      {
+        "id": "1929-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1930,
+    "rawStructuralBoxes": 31,
+    "canonicalBoxes": 30,
+    "suppressed": [
+      {
+        "id": "1930-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1931,
+    "rawStructuralBoxes": 34,
+    "canonicalBoxes": 33,
+    "suppressed": [
+      {
+        "id": "1931-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1932,
+    "rawStructuralBoxes": 32,
+    "canonicalBoxes": 31,
+    "suppressed": [
+      {
+        "id": "1932-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1933,
+    "rawStructuralBoxes": 34,
+    "canonicalBoxes": 32,
+    "suppressed": [
+      {
+        "id": "1933-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1933-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1933-intellectual-cooperation-international-bureaux-s-1",
+        "reason": "collapsed spatial duplicate extracted from overlapping ODP text boxes"
+      }
+    ],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1934,
+    "rawStructuralBoxes": 31,
+    "canonicalBoxes": 29,
+    "suppressed": [
+      {
+        "id": "1934-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1934-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1934-intellectual-cooperation-international-bureaux-s-1",
+        "reason": "collapsed spatial duplicate extracted from overlapping ODP text boxes"
+      }
+    ],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1935,
+    "rawStructuralBoxes": 40,
+    "canonicalBoxes": 38,
+    "suppressed": [
+      {
+        "id": "1935-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1935-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1935-intellectual-cooperation-international-bureaux-s-1",
+        "reason": "collapsed spatial duplicate extracted from overlapping ODP text boxes"
+      }
+    ],
+    "remainingSameLabelBoxes": [
+      {
+        "label": "Rockefeller Grant",
+        "kind": "special",
+        "ids": [
+          "1935-rockefeller-grant-1",
+          "1935-rockefeller-grant-2"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      }
+    ],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1936,
+    "rawStructuralBoxes": 39,
+    "canonicalBoxes": 37,
+    "suppressed": [
+      {
+        "id": "1936-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1936-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1936-intellectual-cooperation-international-bureaux-s-1",
+        "reason": "collapsed spatial duplicate extracted from overlapping ODP text boxes"
+      }
+    ],
+    "remainingSameLabelBoxes": [
+      {
+        "label": "Rockefeller Grant",
+        "kind": "special",
+        "ids": [
+          "1936-rockefeller-grant-1",
+          "1936-rockefeller-grant-2"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      }
+    ],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1937,
+    "rawStructuralBoxes": 39,
+    "canonicalBoxes": 37,
+    "suppressed": [
+      {
+        "id": "1937-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1937-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1937-intellectual-cooperation-international-bureaux-s-1",
+        "reason": "collapsed spatial duplicate extracted from overlapping ODP text boxes"
+      }
+    ],
+    "remainingSameLabelBoxes": [
+      {
+        "label": "Rockefeller Grant",
+        "kind": "special",
+        "ids": [
+          "1937-rockefeller-grant-1",
+          "1937-rockefeller-grant-2"
+        ],
+        "note": "same label appears more than once at different coordinates and is therefore kept"
+      }
+    ],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1938,
+    "rawStructuralBoxes": 37,
+    "canonicalBoxes": 35,
+    "suppressed": [
+      {
+        "id": "1938-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1938-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1938-intellectual-cooperation-international-bureaux-s-1",
+        "reason": "collapsed spatial duplicate extracted from overlapping ODP text boxes"
+      }
+    ],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  },
+  {
+    "year": 1939,
+    "rawStructuralBoxes": 19,
+    "canonicalBoxes": 17,
+    "suppressed": [
+      {
+        "id": "1939-secretary-general-1",
+        "label": "Secretary-General",
+        "reason": "suppressed extracted text because Secretary-General’s Office is present"
+      }
+    ],
+    "collapsed": [
+      {
+        "id": "1939-intellectual-cooperation-international-bureaux-s-2",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "keptId": "1939-intellectual-cooperation-international-bureaux-s-1",
+        "reason": "collapsed spatial duplicate extracted from overlapping ODP text boxes"
+      }
+    ],
+    "remainingSameLabelBoxes": [],
+    "status": "PASS_PRE_RENDER_CANONICALIZATION"
+  }
+]

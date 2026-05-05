@@ -1,0 +1,3177 @@
+[
+  {
+    "year": 1919,
+    "assignments": [
+      {
+        "target_id": "1919-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. Van Hamel"
+      },
+      {
+        "target_id": "1919-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1919-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "B. Attolico"
+      },
+      {
+        "target_id": "1919-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1919-administrative-commissions-minorities-questions--1",
+        "target": "Administrative Commissions & Minorities Questions Section",
+        "manager": "E. Colban"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1919-political-section-1",
+        "label": "Political Section",
+        "old": "J. Van Hamel",
+        "new": null
+      },
+      {
+        "id": "1919-legal-section-1",
+        "label": "Legal Section",
+        "old": "P. Comert",
+        "new": "J. Van Hamel"
+      },
+      {
+        "id": "1919-mandatory-section-1",
+        "label": "Mandatory Section",
+        "old": "Secretary-General’s Office",
+        "new": null
+      },
+      {
+        "id": "1919-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "Secretary-General’s Office",
+        "new": null
+      },
+      {
+        "id": "1919-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Secretary-General’s Office",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1919-social-questions-section-health-1",
+        "label": "Social Questions Section (Health)",
+        "old": "B. Attolico",
+        "new": null
+      },
+      {
+        "id": "1919-administrative-commissions-minorities-questions--1",
+        "label": "Administrative Commissions & Minorities Questions Section",
+        "old": "Secretary-General’s Office",
+        "new": "E. Colban"
+      }
+    ]
+  },
+  {
+    "year": 1920,
+    "assignments": [
+      {
+        "target_id": "1920-political-section-1",
+        "target": "Political Section",
+        "manager": "P. Mantoux"
+      },
+      {
+        "target_id": "1920-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1920-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "B. Attolico"
+      },
+      {
+        "target_id": "1920-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1920-administrative-commissions-minorities-questions--1",
+        "target": "Administrative Commissions & Minorities Questions Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1920-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "W. T. C. H. Layton"
+      },
+      {
+        "target_id": "1920-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. Van Hamel"
+      },
+      {
+        "target_id": "1920-financial-administration-1",
+        "target": "Financial Administration",
+        "manager": "Sir H. Ames"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1920-legal-section-1",
+        "label": "Legal Section",
+        "old": "P. Mantoux",
+        "new": "J. Van Hamel"
+      },
+      {
+        "id": "1920-information-section-1",
+        "label": "Information Section",
+        "old": "P. Mantoux",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1920-administrative-commissions-minorities-questions--1",
+        "label": "Administrative Commissions & Minorities Questions Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1920-mandatory-section-1",
+        "label": "Mandatory Section",
+        "old": "Secretary-General",
+        "new": null
+      },
+      {
+        "id": "1920-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "Deputy Secretary-General",
+        "new": "W. T. C. H. Layton"
+      },
+      {
+        "id": "1920-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Secretary-General",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1920-social-questions-section-health-1",
+        "label": "Social Questions Section (Health)",
+        "old": "B. Attolico",
+        "new": null
+      },
+      {
+        "id": "1920-financial-administration-1",
+        "label": "Financial Administration",
+        "old": "P. Comert",
+        "new": "Sir H. Ames"
+      }
+    ]
+  },
+  {
+    "year": 1921,
+    "assignments": [
+      {
+        "target_id": "1921-political-section-1",
+        "target": "Political Section",
+        "manager": "P. Mantoux"
+      },
+      {
+        "target_id": "1921-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1921-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "B. Attolico"
+      },
+      {
+        "target_id": "1921-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "F. Nixon"
+      },
+      {
+        "target_id": "1921-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1921-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1921-mandatory-section-1",
+        "target": "Mandatory Section",
+        "manager": "W. E. Rappard"
+      },
+      {
+        "target_id": "1921-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides (acting director)"
+      },
+      {
+        "target_id": "1921-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. Van Hamel"
+      },
+      {
+        "target_id": "1921-financial-administration-1",
+        "target": "Financial Administration",
+        "manager": "Sir H. Ames"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1921-legal-section-1",
+        "label": "Legal Section",
+        "old": "P. Mantoux",
+        "new": "J. Van Hamel"
+      },
+      {
+        "id": "1921-information-section-1",
+        "label": "Information Section",
+        "old": "P. Mantoux",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1921-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1921-mandatory-section-1",
+        "label": "Mandatory Section",
+        "old": "Secretary-General",
+        "new": "W. E. Rappard"
+      },
+      {
+        "id": "1921-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "A. Aghnides (acting director)"
+      },
+      {
+        "id": "1921-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "F. Nixon",
+        "new": "B. Attolico"
+      },
+      {
+        "id": "1921-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "I. Nitobé (USG)",
+        "new": "F. Nixon"
+      },
+      {
+        "id": "1921-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Secretary-General",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1921-social-questions-section-health-1",
+        "label": "Social Questions Section (Health)",
+        "old": "B. Attolico",
+        "new": null
+      },
+      {
+        "id": "1921-financial-administration-1",
+        "label": "Financial Administration",
+        "old": "P. Comert",
+        "new": "Sir H. Ames"
+      }
+    ]
+  },
+  {
+    "year": 1922,
+    "assignments": [
+      {
+        "target_id": "1922-political-section-1",
+        "target": "Political Section",
+        "manager": "P. Mantoux"
+      },
+      {
+        "target_id": "1922-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1922-social-questions-opium-traffic-questions-section-1",
+        "target": "Social Questions & Opium Traffic Questions Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1922-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1922-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "B. Attolico (USG)"
+      },
+      {
+        "target_id": "1922-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "F. Nixon"
+      },
+      {
+        "target_id": "1922-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1922-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1922-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "S. de Madariaga (CoS)"
+      },
+      {
+        "target_id": "1922-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "W. E. Rappard"
+      },
+      {
+        "target_id": "1922-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. Van Hamel"
+      },
+      {
+        "target_id": "1922-financial-administration-1",
+        "target": "Financial Administration",
+        "manager": "Sir H. Ames"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1922-legal-section-1",
+        "label": "Legal Section",
+        "old": "P. Mantoux",
+        "new": "J. Van Hamel"
+      },
+      {
+        "id": "1922-information-section-1",
+        "label": "Information Section",
+        "old": "P. Mantoux",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1922-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1922-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Deputy Secretary-General",
+        "new": "W. E. Rappard"
+      },
+      {
+        "id": "1922-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "S. de Madariaga (CoS)"
+      },
+      {
+        "id": "1922-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": "B. Attolico (USG)"
+      },
+      {
+        "id": "1922-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "I. Nitobé (USG)",
+        "new": "F. Nixon"
+      },
+      {
+        "id": "1922-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Secretary-General",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1922-social-questions-opium-traffic-questions-section-1",
+        "label": "Social Questions & Opium Traffic Questions Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1922-financial-administration-1",
+        "label": "Financial Administration",
+        "old": "P. Comert",
+        "new": "Sir H. Ames"
+      },
+      {
+        "id": "1922-secretariat-of-the-military-naval-air-sub-commis-1",
+        "label": "Secretariat of the Military, Naval & Air Sub-Commissions",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1923,
+    "assignments": [
+      {
+        "target_id": "1923-political-section-1",
+        "target": "Political Section",
+        "manager": "P. Mantoux"
+      },
+      {
+        "target_id": "1923-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1923-social-questions-opium-section-1",
+        "target": "Social Questions & Opium Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1923-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1923-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1923-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1923-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "W. E. Rappard"
+      },
+      {
+        "target_id": "1923-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "S. de Madariaga (CoS)"
+      },
+      {
+        "target_id": "1923-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1923-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. Van Hamel"
+      },
+      {
+        "target_id": "1923-financial-administration-1",
+        "target": "Financial Administration",
+        "manager": "Sir H. Ames"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1923-legal-section-1",
+        "label": "Legal Section",
+        "old": "P. Mantoux",
+        "new": "J. Van Hamel"
+      },
+      {
+        "id": "1923-information-section-1",
+        "label": "Information Section",
+        "old": "P. Mantoux",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1923-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1923-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "W. E. Rappard"
+      },
+      {
+        "id": "1923-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "S. de Madariaga (CoS)"
+      },
+      {
+        "id": "1923-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      },
+      {
+        "id": "1923-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "I. Nitobé (USG)",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1923-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Deputy Secretary-General",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1923-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1923-financial-administration-1",
+        "label": "Financial Administration",
+        "old": "P. Comert",
+        "new": "Sir H. Ames"
+      },
+      {
+        "id": "1923-london-office-1",
+        "label": "London Office",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1924,
+    "assignments": [
+      {
+        "target_id": "1924-political-section-1",
+        "target": "Political Section",
+        "manager": "P. Mantoux"
+      },
+      {
+        "target_id": "1924-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1924-social-questions-opium-section-1",
+        "target": "Social Questions & Opium Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1924-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1924-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1924-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1924-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "W. E. Rappard"
+      },
+      {
+        "target_id": "1924-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "S. de Madariaga (CoS)"
+      },
+      {
+        "target_id": "1924-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1924-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. Van Hamel"
+      },
+      {
+        "target_id": "1924-financial-administration-1",
+        "target": "Financial Administration",
+        "manager": "Sir H. Ames"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1924-legal-section-1",
+        "label": "Legal Section",
+        "old": "P. Mantoux",
+        "new": "J. Van Hamel"
+      },
+      {
+        "id": "1924-information-section-1",
+        "label": "Information Section",
+        "old": "P. Mantoux",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1924-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1924-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "W. E. Rappard"
+      },
+      {
+        "id": "1924-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "S. de Madariaga (CoS)"
+      },
+      {
+        "id": "1924-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      },
+      {
+        "id": "1924-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Deputy Secretary-General",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1924-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1924-financial-administration-1",
+        "label": "Financial Administration",
+        "old": "P. Comert",
+        "new": "Sir H. Ames"
+      },
+      {
+        "id": "1924-london-office-1",
+        "label": "London Office",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      },
+      {
+        "id": "1924-budapest-office-1",
+        "label": "Budapest Office",
+        "old": "J. Van Hamel",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1925,
+    "assignments": [
+      {
+        "target_id": "1925-political-section-1",
+        "target": "Political Section",
+        "manager": "P. Mantoux"
+      },
+      {
+        "target_id": "1925-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1925-social-questions-opium-section-1",
+        "target": "Social Questions & Opium Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1925-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1925-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1925-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1925-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1925-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini (CoS)"
+      },
+      {
+        "target_id": "1925-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "S. de Madariaga (CoS)"
+      },
+      {
+        "target_id": "1925-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1925-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. Van Hamel"
+      },
+      {
+        "target_id": "1925-financial-director-s-office-1",
+        "target": "Financial Director’s Office",
+        "manager": "Sir H. Ames"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1925-legal-section-1",
+        "label": "Legal Section",
+        "old": "P. Mantoux",
+        "new": "J. Van Hamel"
+      },
+      {
+        "id": "1925-information-section-1",
+        "label": "Information Section",
+        "old": "P. Mantoux",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1925-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1925-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini (CoS)"
+      },
+      {
+        "id": "1925-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "S. de Madariaga (CoS)"
+      },
+      {
+        "id": "1925-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "I. Nitobé (USG)",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1925-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Deputy Secretary-General",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1925-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1925-health-section-1",
+        "label": "Health Section",
+        "old": "Sir A. Salter",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1925-financial-director-s-office-1",
+        "label": "Financial Director’s Office",
+        "old": "P. Comert",
+        "new": "Sir H. Ames"
+      },
+      {
+        "id": "1925-attached-to-london-office-1",
+        "label": "Attached to London Office",
+        "old": "J. Van Hamel",
+        "new": null
+      },
+      {
+        "id": "1925-paris-office-1",
+        "label": "Paris Office",
+        "old": "J. Van Hamel",
+        "new": null
+      },
+      {
+        "id": "1925-rome-office-1",
+        "label": "Rome Office",
+        "old": "J. Van Hamel",
+        "new": null
+      },
+      {
+        "id": "1925-budapest-office-1",
+        "label": "Budapest Office",
+        "old": "J. Van Hamel",
+        "new": null
+      },
+      {
+        "id": "1925-the-hague-office-1",
+        "label": "The Hague Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1925-turkey-1",
+        "label": "Turkey",
+        "old": "E. Colban",
+        "new": null
+      },
+      {
+        "id": "1925-administrative-commissions-1",
+        "label": "Administrative Commissions",
+        "old": "E. Colban",
+        "new": null
+      },
+      {
+        "id": "1925-minorities-questions-1",
+        "label": "Minorities Questions",
+        "old": "V. Castastini (CoS)",
+        "new": null
+      },
+      {
+        "id": "1925-attached-to-london-office-2",
+        "label": "Attached to London Office",
+        "old": "Sir A. Salter",
+        "new": null
+      },
+      {
+        "id": "1925-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "Sir A. Salter",
+        "new": null
+      },
+      {
+        "id": "1925-south-american-bureau-1",
+        "label": "South American Bureau",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      },
+      {
+        "id": "1925-london-office-1",
+        "label": "London Office",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1926,
+    "assignments": [
+      {
+        "target_id": "1926-political-section-1",
+        "target": "Political Section",
+        "manager": "P. Mantoux"
+      },
+      {
+        "target_id": "1926-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1926-social-questions-opium-section-1",
+        "target": "Social Questions & Opium Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1926-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1926-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "I. Nitobé (USG)"
+      },
+      {
+        "target_id": "1926-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1926-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini (CoS)"
+      },
+      {
+        "target_id": "1926-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "S. de Madariaga (CoS)"
+      },
+      {
+        "target_id": "1926-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1926-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1926-financial-director-s-office-1",
+        "target": "Financial Director’s Office",
+        "manager": "Sir H. Ames"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1926-political-section-1",
+        "label": "Political Section",
+        "old": "Hamel / McKinnon Wood (acting director)",
+        "new": "P. Mantoux"
+      },
+      {
+        "id": "1926-legal-section-1",
+        "label": "Legal Section",
+        "old": "Hamel / McKinnon Wood (acting director)",
+        "new": null
+      },
+      {
+        "id": "1926-information-section-1",
+        "label": "Information Section",
+        "old": "Hamel / McKinnon Wood (acting director)",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1926-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1926-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini (CoS)"
+      },
+      {
+        "id": "1926-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "S. de Madariaga (CoS)"
+      },
+      {
+        "id": "1926-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1926-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "I. Nitobé (USG)",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1926-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Deputy Secretary-General",
+        "new": "I. Nitobé (USG)"
+      },
+      {
+        "id": "1926-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1926-financial-director-s-office-1",
+        "label": "Financial Director’s Office",
+        "old": "P. Comert",
+        "new": "Sir H. Ames"
+      },
+      {
+        "id": "1926-attached-to-london-office-1",
+        "label": "Attached to London Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1926-liaison-offices-1",
+        "label": "Liaison Offices",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1926-attached-to-london-office-2",
+        "label": "Attached to London Office",
+        "old": "Sir A. Salter",
+        "new": null
+      },
+      {
+        "id": "1926-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "L. W. Rajchman",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1927,
+    "assignments": [
+      {
+        "target_id": "1927-political-section-1",
+        "target": "Political Section",
+        "manager": "Y. Sugimura (USG)"
+      },
+      {
+        "target_id": "1927-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1927-social-questions-opium-section-1",
+        "target": "Social Questions & Opium Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1927-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1927-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas (Co S)"
+      },
+      {
+        "target_id": "1927-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "target_id": "1927-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1927-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini (CoS)"
+      },
+      {
+        "target_id": "1927-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "S. de Madariaga"
+      },
+      {
+        "target_id": "1927-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1927-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1927-political-section-1",
+        "label": "Political Section",
+        "old": "McKinnon Wood (acting director)",
+        "new": "Y. Sugimura (USG)"
+      },
+      {
+        "id": "1927-legal-section-1",
+        "label": "Legal Section",
+        "old": "McKinnon Wood (acting director)",
+        "new": null
+      },
+      {
+        "id": "1927-information-section-1",
+        "label": "Information Section",
+        "old": "McKinnon Wood (acting director)",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1927-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1927-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini (CoS)"
+      },
+      {
+        "id": "1927-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "S. de Madariaga"
+      },
+      {
+        "id": "1927-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "A. Dufour-Féronce (USG)",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1927-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Secretary-General",
+        "new": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "id": "1927-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1927-health-section-1",
+        "label": "Health Section",
+        "old": "R. Haas (Co S)",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1927-treasury-1",
+        "label": "Treasury",
+        "old": "P. Comert",
+        "new": "S. Jacklin"
+      },
+      {
+        "id": "1927-attached-to-london-office-1",
+        "label": "Attached to London Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1927-liaison-offices-1",
+        "label": "Liaison Offices",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1927-attached-to-london-office-2",
+        "label": "Attached to London Office",
+        "old": "R. Haas (Co S)",
+        "new": null
+      },
+      {
+        "id": "1927-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "R. Haas (Co S)",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1928,
+    "assignments": [
+      {
+        "target_id": "1928-political-section-1",
+        "target": "Political Section",
+        "manager": "Y. Sugimura (USG)"
+      },
+      {
+        "target_id": "1928-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1928-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1928-social-questions-opium-section-1",
+        "target": "Social Questions & Opium Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1928-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1928-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas (Co S)"
+      },
+      {
+        "target_id": "1928-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "target_id": "1928-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1928-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini (CoS)"
+      },
+      {
+        "target_id": "1928-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1928-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1928-political-section-1",
+        "label": "Political Section",
+        "old": "J. A. Buero (Legal Adviser)",
+        "new": "Y. Sugimura (USG)"
+      },
+      {
+        "id": "1928-information-section-1",
+        "label": "Information Section",
+        "old": "J. A. Buero (Legal Adviser)",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1928-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": null
+      },
+      {
+        "id": "1928-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini (CoS)"
+      },
+      {
+        "id": "1928-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1928-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "R. Haas (Co S)",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1928-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Deputy Secretary-General",
+        "new": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "id": "1928-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1928-health-section-1",
+        "label": "Health Section",
+        "old": "R. Haas (Co S)",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1928-treasury-1",
+        "label": "Treasury",
+        "old": "P. Comert",
+        "new": "S. Jacklin"
+      },
+      {
+        "id": "1928-paris-office-1",
+        "label": "Paris Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1928-rome-office-1",
+        "label": "Rome Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1928-tokyo-office-1",
+        "label": "Tokyo Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1928-berlin-office-1",
+        "label": "Berlin Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1928-attached-to-london-office-1",
+        "label": "Attached to London Office",
+        "old": "Sir A. Salter",
+        "new": null
+      },
+      {
+        "id": "1928-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "R. Haas (Co S)",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1929,
+    "assignments": [
+      {
+        "target_id": "1929-political-section-1",
+        "target": "Political Section",
+        "manager": "Y. Sugimura (USG)"
+      },
+      {
+        "target_id": "1929-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1929-social-questions-opium-section-1",
+        "target": "Social Questions & Opium Section",
+        "manager": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "target_id": "1929-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1929-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas (Co S)"
+      },
+      {
+        "target_id": "1929-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "target_id": "1929-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "A. de Cáreer"
+      },
+      {
+        "target_id": "1929-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "E. Colban"
+      },
+      {
+        "target_id": "1929-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1929-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1929-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1929-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1929-legal-section-1",
+        "label": "Legal Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1929-information-section-1",
+        "label": "Information Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1929-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "A. de Cáreer"
+      },
+      {
+        "id": "1929-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1929-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "E. Colban"
+      },
+      {
+        "id": "1929-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "R. Haas (Co S)",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1929-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Deputy Secretary-General",
+        "new": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "id": "1929-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": "Dame R. M. Crowdy (CoS)"
+      },
+      {
+        "id": "1929-health-section-1",
+        "label": "Health Section",
+        "old": "R. Haas (Co S)",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1929-treasury-1",
+        "label": "Treasury",
+        "old": "P. Comert",
+        "new": "S. Jacklin"
+      },
+      {
+        "id": "1929-paris-office-1",
+        "label": "Paris Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1929-rome-office-1",
+        "label": "Rome Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1929-tokyo-office-1",
+        "label": "Tokyo Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1929-berlin-office-1",
+        "label": "Berlin Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1929-attached-to-london-office-1",
+        "label": "Attached to London Office",
+        "old": "R. Haas (Co S)",
+        "new": null
+      },
+      {
+        "id": "1929-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "R. Haas (Co S)",
+        "new": null
+      },
+      {
+        "id": "1929-central-opium-board-1",
+        "label": "Central Opium Board",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1930,
+    "assignments": [
+      {
+        "target_id": "1930-political-section-1",
+        "target": "Political Section",
+        "manager": "Y. Sugimura (USG)"
+      },
+      {
+        "target_id": "1930-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1930-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1930-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas (Co S)"
+      },
+      {
+        "target_id": "1930-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "Sir A. Salter"
+      },
+      {
+        "target_id": "1930-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "target_id": "1930-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "A. de Cáreer"
+      },
+      {
+        "target_id": "1930-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1930-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1930-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1930-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1930-legal-section-1",
+        "label": "Legal Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1930-information-section-1",
+        "label": "Information Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1930-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "A. de Cáreer"
+      },
+      {
+        "id": "1930-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1930-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1930-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "R. Haas (Co S)",
+        "new": "Sir A. Salter"
+      },
+      {
+        "id": "1930-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Deputy Secretary-General",
+        "new": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "id": "1930-social-questions-1",
+        "label": "Social Questions",
+        "old": "L. W. Rajchman",
+        "new": null
+      },
+      {
+        "id": "1930-health-section-1",
+        "label": "Health Section",
+        "old": "R. Haas (Co S)",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1930-opium-traffic-section-1",
+        "label": "Opium Traffic Section",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      },
+      {
+        "id": "1930-treasury-1",
+        "label": "Treasury",
+        "old": "P. Comert",
+        "new": "S. Jacklin"
+      },
+      {
+        "id": "1930-paris-office-1",
+        "label": "Paris Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1930-rome-office-1",
+        "label": "Rome Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1930-tokyo-office-1",
+        "label": "Tokyo Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1930-berlin-office-1",
+        "label": "Berlin Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1930-attached-to-london-office-1",
+        "label": "Attached to London Office",
+        "old": "R. Haas (Co S)",
+        "new": null
+      },
+      {
+        "id": "1930-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "R. Haas (Co S)",
+        "new": null
+      },
+      {
+        "id": "1930-central-opium-board-1",
+        "label": "Central Opium Board",
+        "old": "Dame R. M. Crowdy (CoS)",
+        "new": null
+      },
+      {
+        "id": "1930-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1931,
+    "assignments": [
+      {
+        "target_id": "1931-political-section-1",
+        "target": "Political Section",
+        "manager": "Y. Sugimura (USG)"
+      },
+      {
+        "target_id": "1931-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1931-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1931-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1931-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "target_id": "1931-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "P. de Azcarate Florez"
+      },
+      {
+        "target_id": "1931-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1931-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1931-economic-and-financial-section-1",
+        "target": "Economic and Financial Section",
+        "manager": "A. Loveday"
+      },
+      {
+        "target_id": "1931-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1931-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1931-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1931-legal-section-1",
+        "label": "Legal Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1931-information-section-1",
+        "label": "Information Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1931-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "P. de Azcarate Florez"
+      },
+      {
+        "id": "1931-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1931-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1931-economic-and-financial-section-1",
+        "label": "Economic and Financial Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani; A. Loveday"
+      },
+      {
+        "id": "1931-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Secretary-General",
+        "new": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "id": "1931-social-questions-section-1",
+        "label": "Social questions section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1931-health-section-1",
+        "label": "Health Section",
+        "old": "R. Haas",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1931-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "A. Loveday",
+        "new": null
+      },
+      {
+        "id": "1931-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": null
+      },
+      {
+        "id": "1931-treasury-1",
+        "label": "Treasury",
+        "old": "P. de Azcarate Florez",
+        "new": "S. Jacklin"
+      },
+      {
+        "id": "1931-paris-office-1",
+        "label": "Paris Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1931-rome-office-1",
+        "label": "Rome Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1931-tokyo-office-1",
+        "label": "Tokyo Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1931-berlin-office-1",
+        "label": "Berlin Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1931-attached-to-london-office-1",
+        "label": "Attached to London Office",
+        "old": "A. Loveday",
+        "new": null
+      },
+      {
+        "id": "1931-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1931-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1931-central-opium-board-1",
+        "label": "Central Opium Board",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1931-correspondents-abroad-1",
+        "label": "Correspondents Abroad",
+        "old": "A. Aghnides",
+        "new": null
+      },
+      {
+        "id": "1931-liaison-with-latin-america-1",
+        "label": "Liaison with Latin America",
+        "old": "V. Castastini",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1932,
+    "assignments": [
+      {
+        "target_id": "1932-political-section-1",
+        "target": "Political Section",
+        "manager": "Y. Sugimura (USG)"
+      },
+      {
+        "target_id": "1932-information-section-1",
+        "target": "Information Section",
+        "manager": "P. Comert"
+      },
+      {
+        "target_id": "1932-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1932-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1932-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "target_id": "1932-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "P. de Azcarate Florez"
+      },
+      {
+        "target_id": "1932-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1932-economic-relations-section-1",
+        "target": "Economic Relations Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1932-financial-section-economic-intelligence-service-1",
+        "target": "Financial Section & Economic Intelligence Service",
+        "manager": "A. Loveday"
+      },
+      {
+        "target_id": "1932-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1932-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1932-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1932-legal-section-1",
+        "label": "Legal Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1932-information-section-1",
+        "label": "Information Section",
+        "old": "Y. Sugimura (USG)",
+        "new": "P. Comert"
+      },
+      {
+        "id": "1932-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "Deputy Secretary-General",
+        "new": "P. de Azcarate Florez"
+      },
+      {
+        "id": "1932-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "Secretary-General",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1932-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "Secretary-General",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1932-intellectual-cooperation-international-bureaux-s-1",
+        "label": "Intellectual Cooperation & International Bureaux Section",
+        "old": "Secretary-General",
+        "new": "A. Dufour-Féronce (USG)"
+      },
+      {
+        "id": "1932-health-section-1",
+        "label": "Health Section",
+        "old": "R. Haas",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1932-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani"
+      },
+      {
+        "id": "1932-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "A. Dufour-Féronce (USG)",
+        "new": "A. Loveday"
+      },
+      {
+        "id": "1932-treasury-1",
+        "label": "Treasury",
+        "old": "P. de Azcarate Florez",
+        "new": "S. Jacklin"
+      },
+      {
+        "id": "1932-paris-office-1",
+        "label": "Paris Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1932-rome-office-1",
+        "label": "Rome Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1932-tokyo-office-1",
+        "label": "Tokyo Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1932-berlin-office-1",
+        "label": "Berlin Office",
+        "old": "P. Comert",
+        "new": null
+      },
+      {
+        "id": "1932-social-questions-section-1",
+        "label": "Social questions section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1932-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1932-central-opium-board-1",
+        "label": "Central Opium Board",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1932-correspondents-abroad-1",
+        "label": "Correspondents Abroad",
+        "old": "A. Aghnides",
+        "new": null
+      },
+      {
+        "id": "1932-liaison-with-latin-america-1",
+        "label": "Liaison with Latin America",
+        "old": "V. Castastini",
+        "new": null
+      },
+      {
+        "id": "1932-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "L. W. Rajchman",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1933,
+    "assignments": [
+      {
+        "target_id": "1933-political-section-1",
+        "target": "Political Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1933-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1933-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1933-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "M. Pilotti (USG)"
+      },
+      {
+        "target_id": "1933-administrative-commissions-minorities-section-1",
+        "target": "Administrative Commissions & Minorities Section",
+        "manager": "P. de Azcarate Florez"
+      },
+      {
+        "target_id": "1933-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1933-central-section-1",
+        "target": "Central Section",
+        "manager": "S. Jacklin"
+      },
+      {
+        "target_id": "1933-central-section-1",
+        "target": "Central Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1933-central-section-1",
+        "target": "Central Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1933-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1933-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1933-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      },
+      {
+        "target_id": "1933-economic-relations-section-1",
+        "target": "Economic Relations Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1933-financial-section-economic-intelligence-service-1",
+        "target": "Financial Section & Economic Intelligence Service",
+        "manager": "A. Loveday"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1933-legal-section-1",
+        "label": "Legal Section",
+        "old": "F. P. Walters (USG)",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1933-information-section-1",
+        "label": "Information Section",
+        "old": "F. P. Walters (USG)",
+        "new": null
+      },
+      {
+        "id": "1933-administrative-commissions-minorities-section-1",
+        "label": "Administrative Commissions & Minorities Section",
+        "old": "V. Castastini",
+        "new": "P. de Azcarate Florez"
+      },
+      {
+        "id": "1933-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1933-health-section-1",
+        "label": "Health Section",
+        "old": "R. Haas",
+        "new": "L. W. Rajchman"
+      },
+      {
+        "id": "1933-central-section-1",
+        "label": "Central Section",
+        "old": null,
+        "new": "S. Jacklin; J. A. Buero (Legal Adviser); F. P. Walters (USG)"
+      },
+      {
+        "id": "1933-treasury-1",
+        "label": "Treasury",
+        "old": "P. de Azcarate Florez",
+        "new": "S. Jacklin"
+      },
+      {
+        "id": "1933-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani"
+      },
+      {
+        "id": "1933-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Loveday"
+      },
+      {
+        "id": "1933-tokyo-office-1",
+        "label": "Tokyo Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1933-berlin-office-1",
+        "label": "Berlin Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1933-correspondents-abroad-1",
+        "label": "Correspondents Abroad",
+        "old": "A. Loveday",
+        "new": null
+      },
+      {
+        "id": "1933-liaison-with-latin-america-1",
+        "label": "Liaison with Latin America",
+        "old": "V. Castastini",
+        "new": null
+      },
+      {
+        "id": "1933-social-questions-section-1",
+        "label": "Social questions section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1933-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1933-central-opium-board-1",
+        "label": "Central Opium Board",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1933-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "L. W. Rajchman",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1934,
+    "assignments": [
+      {
+        "target_id": "1934-political-section-1",
+        "target": "Political Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1934-information-section-1",
+        "target": "Information Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1934-health-section-1",
+        "target": "Health Section",
+        "manager": "F. G. Boudreau (see note)"
+      },
+      {
+        "target_id": "1934-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1934-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "M. Pilotti (USG)"
+      },
+      {
+        "target_id": "1934-minorities-questions-section-1",
+        "target": "Minorities Questions Section",
+        "manager": "H. R. Rosting"
+      },
+      {
+        "target_id": "1934-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1934-central-section-1",
+        "target": "Central Section",
+        "manager": "J. V. Wilson (Co S)"
+      },
+      {
+        "target_id": "1934-central-section-1",
+        "target": "Central Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1934-central-section-1",
+        "target": "Central Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1934-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1934-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1934-economic-relations-section-1",
+        "target": "Economic Relations Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1934-financial-section-economic-intelligence-service-1",
+        "target": "Financial Section & Economic Intelligence Service",
+        "manager": "A. Loveday"
+      },
+      {
+        "target_id": "1934-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      },
+      {
+        "target_id": "1934-accounting-branch-1",
+        "target": "Accounting Branch",
+        "manager": "P. G. Watterson (C.A.)"
+      },
+      {
+        "target_id": "1934-internal-control-office-1",
+        "target": "Internal Control Office",
+        "manager": "P. J. de Makay (I.C.O.)"
+      },
+      {
+        "target_id": "1934-library-1",
+        "target": "Library",
+        "manager": "T. P. Sevensma (CoS)"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1934-legal-section-1",
+        "label": "Legal Section",
+        "old": "A. Pelt",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1934-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "H. R. Rosting",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1934-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1934-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "F. G. Boudreau (see note)",
+        "new": "R. Haas"
+      },
+      {
+        "id": "1934-central-section-1",
+        "label": "Central Section",
+        "old": "J. V. Wilson (Co S)",
+        "new": "J. V. Wilson (Co S); A. Pelt; F. P. Walters (USG)"
+      },
+      {
+        "id": "1934-attached-to-senior-management-1",
+        "label": "Attached to Senior Management",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1934-administrative-commissions-bureau-1",
+        "label": "Administrative Commissions Bureau",
+        "old": "J. A. Buero (Legal Adviser)",
+        "new": null
+      },
+      {
+        "id": "1934-accounting-branch-1",
+        "label": "Accounting Branch",
+        "old": "S. Jacklin",
+        "new": "P. G. Watterson (C.A.)"
+      },
+      {
+        "id": "1934-internal-control-office-1",
+        "label": "Internal Control Office",
+        "old": "P. G. Watterson (C.A.)",
+        "new": "P. J. de Makay (I.C.O.)"
+      },
+      {
+        "id": "1934-library-1",
+        "label": "Library",
+        "old": "P. G. Watterson (C.A.)",
+        "new": "T. P. Sevensma (CoS)"
+      },
+      {
+        "id": "1934-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani"
+      },
+      {
+        "id": "1934-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Loveday"
+      },
+      {
+        "id": "1934-correspondent-abroad-1",
+        "label": "Correspondent Abroad",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1934-social-questions-section-1",
+        "label": "Social questions section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1934-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1934-central-opium-board-1",
+        "label": "Central Opium Board",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1934-epidemiological-intelligence-service-rockefeller-1",
+        "label": "Epidemiological Intelligence Service (Rockefeller Grant)",
+        "old": "F. G. Boudreau (see note)",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1935,
+    "assignments": [
+      {
+        "target_id": "1935-political-section-1",
+        "target": "Political Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1935-information-section-1",
+        "target": "Information Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1935-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1935-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1935-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "M. Pilotti (USG)"
+      },
+      {
+        "target_id": "1935-minorities-section-1",
+        "target": "Minorities Section",
+        "manager": "H. R. Rosting"
+      },
+      {
+        "target_id": "1935-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1935-central-section-1",
+        "target": "Central Section",
+        "manager": "J. V. Wilson (Co S)"
+      },
+      {
+        "target_id": "1935-central-section-1",
+        "target": "Central Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1935-central-section-1",
+        "target": "Central Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1935-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1935-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1935-economic-relations-section-1",
+        "target": "Economic Relations Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1935-financial-section-economic-intelligence-service-1",
+        "target": "Financial Section & Economic Intelligence Service",
+        "manager": "A. Loveday"
+      },
+      {
+        "target_id": "1935-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      },
+      {
+        "target_id": "1935-library-1",
+        "target": "Library",
+        "manager": "T. P. Sevensma (CoS)"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1935-legal-section-1",
+        "label": "Legal Section",
+        "old": "A. Pelt",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1935-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "H. R. Rosting",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1935-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1935-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": "R. Haas"
+      },
+      {
+        "id": "1935-central-section-1",
+        "label": "Central Section",
+        "old": "J. V. Wilson (Co S)",
+        "new": "J. V. Wilson (Co S); A. Pelt; F. P. Walters (USG)"
+      },
+      {
+        "id": "1935-attached-to-senior-management-1",
+        "label": "Attached to Senior Management",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1935-accounting-branch-1",
+        "label": "Accounting Branch",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1935-internal-control-office-1",
+        "label": "Internal Control Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1935-treasurer-and-office-1",
+        "label": "Treasurer and Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1935-rockefeller-grant-1",
+        "label": "Rockefeller Grant",
+        "old": "H. R. Rosting",
+        "new": null
+      },
+      {
+        "id": "1935-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani"
+      },
+      {
+        "id": "1935-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Loveday"
+      },
+      {
+        "id": "1935-correspondent-abroad-1",
+        "label": "Correspondent Abroad",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1935-rockefeller-grant-2",
+        "label": "Rockefeller Grant",
+        "old": "R. Haas",
+        "new": null
+      },
+      {
+        "id": "1935-social-questions-section-1",
+        "label": "Social Questions Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      },
+      {
+        "id": "1935-social-questions-opium-traffic-section-1",
+        "label": "Social Questions & Opium Traffic Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1936,
+    "assignments": [
+      {
+        "target_id": "1936-political-section-1",
+        "target": "Political Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1936-information-section-1",
+        "target": "Information Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1936-opium-traffic-section-1",
+        "target": "Opium Traffic Section",
+        "manager": "E. E. Ekstrand"
+      },
+      {
+        "target_id": "1936-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1936-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1936-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "M. Pilotti (USG)"
+      },
+      {
+        "target_id": "1936-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1936-central-section-1",
+        "target": "Central Section",
+        "manager": "J. V. Wilson (Co S)"
+      },
+      {
+        "target_id": "1936-central-section-1",
+        "target": "Central Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1936-central-section-1",
+        "target": "Central Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1936-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1936-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1936-economic-relations-section-1",
+        "target": "Economic Relations Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1936-financial-section-economic-intelligence-service-1",
+        "target": "Financial Section & Economic Intelligence Service",
+        "manager": "A. Loveday"
+      },
+      {
+        "target_id": "1936-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      },
+      {
+        "target_id": "1936-library-1",
+        "target": "Library",
+        "manager": "T. P. Sevensma (CoS)"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1936-legal-section-1",
+        "label": "Legal Section",
+        "old": "A. Pelt",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1936-minorities-section-1",
+        "label": "Minorities Section",
+        "old": "V. Castastini",
+        "new": null
+      },
+      {
+        "id": "1936-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1936-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": "R. Haas"
+      },
+      {
+        "id": "1936-social-questions-section-1",
+        "label": "Social Questions Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      },
+      {
+        "id": "1936-central-section-1",
+        "label": "Central Section",
+        "old": "J. V. Wilson (Co S)",
+        "new": "J. V. Wilson (Co S); A. Pelt; F. P. Walters (USG)"
+      },
+      {
+        "id": "1936-attached-to-senior-management-1",
+        "label": "Attached to Senior Management",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1936-accounting-branch-1",
+        "label": "Accounting Branch",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1936-internal-control-office-1",
+        "label": "Internal Control Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1936-treasurer-and-office-1",
+        "label": "Treasurer and Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1936-rockefeller-grant-1",
+        "label": "Rockefeller Grant",
+        "old": "T. P. Sevensma (CoS)",
+        "new": null
+      },
+      {
+        "id": "1936-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani"
+      },
+      {
+        "id": "1936-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Loveday"
+      },
+      {
+        "id": "1936-correspondent-abroad-1",
+        "label": "Correspondent Abroad",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1936-rockefeller-grant-2",
+        "label": "Rockefeller Grant",
+        "old": "R. Haas",
+        "new": null
+      },
+      {
+        "id": "1936-correspondents-abroad-1",
+        "label": "Correspondents Abroad",
+        "old": "E. E. Ekstrand",
+        "new": null
+      },
+      {
+        "id": "1936-liaison-with-latin-america-1",
+        "label": "Liaison with Latin America",
+        "old": "E. E. Ekstrand",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1937,
+    "assignments": [
+      {
+        "target_id": "1937-political-section-1",
+        "target": "Political Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1937-information-section-1",
+        "target": "Information Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1937-opium-traffic-section-1",
+        "target": "Opium Traffic Section",
+        "manager": "E. E. Ekstrand"
+      },
+      {
+        "target_id": "1937-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1937-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1937-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "M. Pilotti (USG)"
+      },
+      {
+        "target_id": "1937-minorities-section-1",
+        "target": "Minorities Section",
+        "manager": "P. Schou"
+      },
+      {
+        "target_id": "1937-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1937-central-section-1",
+        "target": "Central Section",
+        "manager": "J. V. Wilson (Co S)"
+      },
+      {
+        "target_id": "1937-central-section-1",
+        "target": "Central Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1937-central-section-1",
+        "target": "Central Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1937-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1937-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1937-economic-relations-section-1",
+        "target": "Economic Relations Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1937-financial-section-economic-intelligence-service-1",
+        "target": "Financial Section & Economic Intelligence Service",
+        "manager": "A. Loveday"
+      },
+      {
+        "target_id": "1937-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      },
+      {
+        "target_id": "1937-library-1",
+        "target": "Library",
+        "manager": "T. P. Sevensma (CoS)"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1937-legal-section-1",
+        "label": "Legal Section",
+        "old": "A. Pelt",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1937-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "P. Schou",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1937-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1937-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": "R. Haas"
+      },
+      {
+        "id": "1937-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      },
+      {
+        "id": "1937-central-section-1",
+        "label": "Central Section",
+        "old": "J. V. Wilson (Co S)",
+        "new": "J. V. Wilson (Co S); A. Pelt; F. P. Walters (USG)"
+      },
+      {
+        "id": "1937-attached-to-senior-management-1",
+        "label": "Attached to Senior Management",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1937-accounting-branch-1",
+        "label": "Accounting Branch",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1937-internal-control-office-1",
+        "label": "Internal Control Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1937-treasurer-and-office-1",
+        "label": "Treasurer and Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1937-rockefeller-grant-1",
+        "label": "Rockefeller Grant",
+        "old": "P. Schou",
+        "new": null
+      },
+      {
+        "id": "1937-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani"
+      },
+      {
+        "id": "1937-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Loveday"
+      },
+      {
+        "id": "1937-rockefeller-grant-2",
+        "label": "Rockefeller Grant",
+        "old": "R. Haas",
+        "new": null
+      },
+      {
+        "id": "1937-correspondents-abroad-1",
+        "label": "Correspondents Abroad",
+        "old": "E. E. Ekstrand",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1938,
+    "assignments": [
+      {
+        "target_id": "1938-political-section-1",
+        "target": "Political Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1938-information-section-1",
+        "target": "Information Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1938-opium-traffic-section-1",
+        "target": "Opium Traffic Section",
+        "manager": "E. E. Ekstrand"
+      },
+      {
+        "target_id": "1938-health-section-1",
+        "target": "Health Section",
+        "manager": "L. W. Rajchman"
+      },
+      {
+        "target_id": "1938-communications-and-transit-section-1",
+        "target": "Communications and Transit Section",
+        "manager": "R. Haas"
+      },
+      {
+        "target_id": "1938-intellectual-cooperation-international-bureaux-s-1",
+        "target": "Intellectual Cooperation & International Bureaux Section",
+        "manager": "M. Pilotti (USG)"
+      },
+      {
+        "target_id": "1938-minorities-section-1",
+        "target": "Minorities Section",
+        "manager": "H. R. Rosting"
+      },
+      {
+        "target_id": "1938-disarmament-section-1",
+        "target": "Disarmament Section",
+        "manager": "A. Aghnides"
+      },
+      {
+        "target_id": "1938-central-section-1",
+        "target": "Central Section",
+        "manager": "J. V. Wilson (Co S)"
+      },
+      {
+        "target_id": "1938-central-section-1",
+        "target": "Central Section",
+        "manager": "A. Pelt"
+      },
+      {
+        "target_id": "1938-central-section-1",
+        "target": "Central Section",
+        "manager": "F. P. Walters (USG)"
+      },
+      {
+        "target_id": "1938-legal-section-1",
+        "target": "Legal Section",
+        "manager": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "target_id": "1938-mandates-section-1",
+        "target": "Mandates Section",
+        "manager": "V. Castastini"
+      },
+      {
+        "target_id": "1938-economic-relations-section-1",
+        "target": "Economic Relations Section",
+        "manager": "P. Stoppani"
+      },
+      {
+        "target_id": "1938-financial-section-economic-intelligence-service-1",
+        "target": "Financial Section & Economic Intelligence Service",
+        "manager": "A. Loveday"
+      },
+      {
+        "target_id": "1938-treasury-1",
+        "target": "Treasury",
+        "manager": "S. Jacklin"
+      }
+    ],
+    "changed": [
+      {
+        "id": "1938-legal-section-1",
+        "label": "Legal Section",
+        "old": "A. Pelt",
+        "new": "J. A. Buero (Legal Adviser)"
+      },
+      {
+        "id": "1938-mandates-section-1",
+        "label": "Mandates Section",
+        "old": "H. R. Rosting",
+        "new": "V. Castastini"
+      },
+      {
+        "id": "1938-disarmament-section-1",
+        "label": "Disarmament Section",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Aghnides"
+      },
+      {
+        "id": "1938-communications-and-transit-section-1",
+        "label": "Communications and Transit Section",
+        "old": "L. W. Rajchman",
+        "new": "R. Haas"
+      },
+      {
+        "id": "1938-social-questions-opium-section-1",
+        "label": "Social Questions & Opium Section",
+        "old": "L. W. Rajchman",
+        "new": null
+      },
+      {
+        "id": "1938-central-section-1",
+        "label": "Central Section",
+        "old": "J. V. Wilson (Co S)",
+        "new": "J. V. Wilson (Co S); A. Pelt; F. P. Walters (USG)"
+      },
+      {
+        "id": "1938-attached-to-senior-management-1",
+        "label": "Attached to Senior Management",
+        "old": "A. Pelt",
+        "new": null
+      },
+      {
+        "id": "1938-accounting-branch-1",
+        "label": "Accounting Branch",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1938-internal-control-office-1",
+        "label": "Internal Control Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1938-treasurer-and-office-1",
+        "label": "Treasurer and Office",
+        "old": "S. Jacklin",
+        "new": null
+      },
+      {
+        "id": "1938-rockefeller-grant-1",
+        "label": "Rockefeller Grant",
+        "old": "H. R. Rosting",
+        "new": null
+      },
+      {
+        "id": "1938-economic-relations-section-1",
+        "label": "Economic Relations Section",
+        "old": "R. Haas",
+        "new": "P. Stoppani"
+      },
+      {
+        "id": "1938-financial-section-economic-intelligence-service-1",
+        "label": "Financial Section & Economic Intelligence Service",
+        "old": "M. Pilotti (USG)",
+        "new": "A. Loveday"
+      },
+      {
+        "id": "1938-correspondents-abroad-1",
+        "label": "Correspondents Abroad",
+        "old": "E. E. Ekstrand",
+        "new": null
+      }
+    ]
+  },
+  {
+    "year": 1939,
+    "assignments": [],
+    "changed": []
+  }
+]

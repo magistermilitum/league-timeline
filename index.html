@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>League of Nations Organisations, 1919–1939</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Interactive institutional map</p>
+      <h1>League of Nations Organisations, 1919–1939</h1>
+    </div>
+    <div class="top-actions">
+      <button id="fitBtn" class="ghost">Fit</button>
+      <button id="resetBtn" class="ghost">Reset pins</button>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <section class="viewer-card">
+      <div class="player">
+        <button id="prevBtn" aria-label="Previous year">⏮</button>
+        <button id="playBtn" class="primary" aria-label="Play timeline">▶</button>
+        <button id="nextBtn" aria-label="Next year">⏭</button>
+        <div class="year-readout"><span id="currentYear">1919</span></div>
+        <input id="yearSlider" type="range" min="1919" max="1939" step="1" value="1919" aria-label="Year" />
+        <label class="speed">Speed
+          <select id="speedSelect">
+            <option value="1800">slow</option>
+            <option value="1100" selected>normal</option>
+            <option value="650">fast</option>
+          </select>
+        </label>
+        <div class="zoom-controls" aria-label="Zoom controls">
+          <button id="zoomOutBtn" class="micro active" title="Fit view">−</button>
+          <button id="zoomInBtn" class="micro" title="Detail view">+</button>
+        </div>
+      </div>
+
+      <div class="tools">
+        <div class="mode-pill">Hub-and-spoke constellation</div>
+        <label><input type="checkbox" id="toggleConnectors" checked /> connectors</label>
+        <label><input type="checkbox" id="toggleNotes" checked /> notes</label>
+        <span class="hint">Single-click a box to reveal the responsible person · double-click to pin the name</span>
+      </div>
+
+      <div id="canvasWrap" class="canvas-wrap">
+        <svg id="orgSvg" role="img" aria-label="League of Nations organisational structure"></svg>
+      </div>
+    </section>
+
+    <aside class="side-card">
+      <section class="panel intro-panel">
+        <h2>Selected year</h2>
+        <p id="yearSummary">Use the controls to move through the institutional structure year by year.</p>
+      </section>
+      <section id="notesPanel" class="panel">
+        <h2>Historical notes</h2>
+        <ul id="notesList"></ul>
+      </section>
+      <section class="panel inspector">
+        <h2>Box inspector</h2>
+        <div id="emptyInspector" class="muted">Select a box in the diagram.</div>
+        <div id="nodeInspector" hidden>
+          <p class="node-kind" id="nodeKind"></p>
+          <h3 id="nodeTitle"></h3>
+          <p id="nodeManager" class="manager"></p>
+          <div class="inspector-actions single">
+            <button id="expandNodeBtn">Pin / unpin name</button>
+          </div>
+        </div>
+      </section>
+      <section class="panel legend">
+        <h2>Legend</h2>
+        <div><span class="swatch leadership"></span> Secretariat leadership</div>
+        <div><span class="swatch unit"></span> section or unit</div>
+        <div><span class="swatch office"></span> office, liaison or branch</div>
+        <div><span class="swatch special"></span> special body, fund or board</div>
+      </section>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    Static HTML/CSS/JS prototype generated from the supplied ODP structure. It can be hosted directly on GitHub Pages.
+  </footer>
+
+  <script src="data/league-structures.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
